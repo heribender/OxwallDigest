@@ -1,3 +1,7 @@
+# Summary
+
+A simple python script which is able to produce a digest mail on the most recent activities of an oxwall community software (see http://www.oxwall.org/).
+
 # Installation
 
 Install the following dependencies:
